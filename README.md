@@ -13,4 +13,9 @@
   * 不要なレイヤーを別のレイヤーに置き換える。
   * 手順3を行った後に不必要なアートメッシュ(レイヤーのこと)を削除する。
 3. Live2DでTaishoRomanceMini01.cmo3を開き、手順2で作成したPSDファイルをドラックアンドドロップしてファイルを差し替える。
-4. 動作確認をしてエクスポートする。
+<https://github.com/toro0andon/YukkuriToLive2D/blob/main/DiscImg/ReinportSetting.png>
+<https://github.com/toro0andon/YukkuriToLive2D/blob/main/DiscImg/modelSetting.png>
+<https://github.com/toro0andon/YukkuriToLive2D/blob/main/DiscImg/textureAtlas.png>
+4. テクスチャアトラスを設定
+5. 動作を確認してエクスポート
+<https://github.com/toro0andon/YukkuriToLive2D/blob/main/DiscImg/export.png>
